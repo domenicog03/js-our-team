@@ -52,7 +52,7 @@ const membriT= [
 console.log(membriT);
 
 
-//MILESTONE 0 FINITO
+//MILESTONE 0 e 1  FINITO
 
 for(let i=0; i<membriT.length; i++){
     const contstringa=document.querySelector('#cont-stringa');
@@ -73,4 +73,4 @@ for(let i=0; i<membriT.length; i++){
  
 }
 
-//MILESTONE 1 FINITO
+//MILESTONE 2 FINITO
