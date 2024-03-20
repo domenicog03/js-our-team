@@ -53,3 +53,24 @@ console.log(membriT);
 
 
 //MILESTONE 0 FINITO
+
+for(let i=0; i<membriT.length; i++){
+    const contstringa=document.querySelector('#cont-stringa');
+    const newDivnome = document.createElement('div');
+    const newDivruolo = document.createElement('div');
+    const newDivfoto = document.createElement('div');
+    const thisClass_nome=membriT[i].nomem;
+    newDivnome.innerHTML=thisClass_nome;
+    const thisClass_ruolo=membriT[i].ruolom;
+    newDivruolo.innerHTML=thisClass_ruolo;
+    const thisClass_foto=membriT[i].foto;
+    newDivfoto.innerHTML=thisClass_foto;
+    contstringa.append(newDivnome);
+    contstringa.append(newDivruolo);
+    contstringa.append(newDivfoto);
+
+
+ 
+}
+
+//MILESTONE 1 FINITO
