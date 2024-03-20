@@ -48,3 +48,8 @@ const membriT= [
         } 
 
 ];
+
+console.log(membriT);
+
+
+//MILESTONE 0 FINITO
