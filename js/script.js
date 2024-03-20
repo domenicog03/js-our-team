@@ -11,3 +11,40 @@
 // Trasformare la stringa foto in una immagine effettiva
 // BONUS 2:
 // Organizzare i singoli membri in card/schede
+
+const membriT= [
+
+        {nomem:"Wayne Barnett",
+        ruolom:"Founder & CEO",
+        foto:"wayne-barnett-founder-ceo.jpg"
+        } ,
+
+
+        {nomem:"Angela Caroll",
+        ruolom:"Chief Editor",
+        foto:"angela-caroll-chief-editor.jpg"
+        } ,
+
+        {nomem:"Walter Gordon",
+        ruolom:"Office Manager",
+        foto:"walter-gordon-office-manager.jpg"
+        } ,
+
+        {nomem:"Angela Lopez",
+        ruolom:"Social MediaManager",
+        foto:"angela-lopez-social-media-manager.jpg"
+        } ,
+
+
+        {nomem:"Scott Estrada",
+        ruolom:"Developer",
+        foto:"scott-estrada-developer.jpg"
+        } ,
+
+
+        {nomem:"Barbara Ramos",
+        ruolom:"Graphic Designer",
+        foto:"barbara-ramos-graphic-designer.jpg"
+        } 
+
+];
